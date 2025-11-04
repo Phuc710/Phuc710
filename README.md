@@ -27,7 +27,7 @@
       <h3>🔥 CODER CỦ CHI 🔥</h3>
     </td>
     <td align="center" width="480">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=DC3545&multiline=true&width=400&height=250&lines=%F0%9F%91%A4+Name:+Nguy%E1%BB%85n+Thanh+Ph%C3%BAc;%F0%9F%8C%90+Bio:+phucdev.xo.je;%F0%9F%94%A5+Username:+Phuc710;%F0%9F%93%85+Born:+07/10/2005;%F0%9F%9A%80+Status:+Coder+C%E1%BB%A7+Chi;%F0%9F%87%BB%F0%9F%87%B3+Location:+Ho+Chi+Minh,+Vietnam;%F0%9F%92%96+Passion:+Coding+and+Innovation" alt="Personal Info" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=DC3545&multiline=true&width=400&height=250&lines=%F0%9F%91%A4+Name:+Nguy%E1%BB%85n+Thanh+Ph%C3%BAc;%F0%9F%8C%90+Bio:+phucdev.xo.je;%F0%9F%94%A5+Username:+Phuc710;%F0%9F%93%85+Born:+07/10/2005;%F0%9F%9A%80+Status:+Coder+C%E1%BB%A7+Chi;%F0%9F%87%BB%F0%9F%87%B3+Location:+Ho+Chi+Minh;%F0%9F%92%96+Passion:+Coding+and+Innovation" alt="Personal Info" />
       <p>
         <a href="https://phucdev.xo.je/">
           <img src="https://img.shields.io/badge/MY%20BIO-007bff?style=for-the-badge&logo=About.me&logoColor=white" alt="My Bio">
@@ -125,7 +125,7 @@
 </div>
 
 <div align="center">
-  <img src="https://flagcdn.com/w50/vn.png" alt="VN Flag" width="50">
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Laptop" width="80">
-  <img src="https://flagcdn.com/w50/vn.png" alt="VN Flag" width="50">
+  
 </div>
